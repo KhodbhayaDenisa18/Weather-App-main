@@ -15,11 +15,12 @@ Geolocation API: Retrieves the user's latitude and longitude coordinates to prov
 Weather API: Retrieves weather data based on the user's location or city name.
 
 How to Use
-Open the WeatherSense Forecast website in your web browser from the link - (https://anantagg.github.io/Weather-App/)
+
 Grant permission for the app to access your location when prompted.
 The app will display the current weather information for your area.
 To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
 The app will show the weather information based on the searched city.
+
 Installation
 No installation is required for this web application. Simply access the WeatherSense through your web browser from the link --link--
 
